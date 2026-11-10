@@ -1,0 +1,23 @@
+## .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+TestResults/
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Reports and snapshots produced by the tool
+output/
+~$*.xlsx
